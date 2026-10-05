@@ -1,0 +1,6 @@
+{
+  "name": "IT-NKC Auth & RBAC System",
+  "description": "ระบบยืนยันตัวตน (Authentication) และกำหนดสิทธิ์การเข้าถึง (RBAC) ด้วย Email/Password และ GitHub OAuth พร้อมหน้า Admin และ Unauthorized ตามโจทย์ it-nkc/auth",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
